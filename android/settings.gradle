@@ -1,0 +1,3 @@
+rootProject.name = 'vintage_1_varieties_35808'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
